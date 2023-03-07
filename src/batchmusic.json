@@ -29,6 +29,76 @@
                   "SongYear": {"S": "1992"}
                 }
             }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Aces High"}
+                  "AlbumTitle": {"S": "Powerslave"},
+                  "SongYear": {"S": "1984"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Iron Maiden"},
+                  "SongTitle": {"S": "Empire of the Clouds"},
+                  "AlbumTitle": {"S": "The Book of Souls"},
+                  "SongYear": {"S": "2015"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pearl jam"},
+                  "SongTitle": {"S": "Jeremy"},
+                  "AlbumTitle": {"S": "Ten"},
+                  "SongYear": {"S": "1991"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Dream Theater"},
+                  "SongTitle": {"S": "A New Beginning"},
+                  "AlbumTitle": {"S": "The Astonishing"},
+                  "SongYear": {"S": "2016"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pink Floyd"},
+                  "SongTitle": {"S": "Comfortably Numb"},
+                  "AlbumTitle": {"S": "Pulse"},
+                  "SongYear": {"S": "1995"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "ACDC"},
+                  "SongTitle": {"S": "Tunderstruck"},
+                  "AlbumTitle": {"S": "Live At River Plate"},
+                  "SongYear": {"S": "2012"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Metallica"},
+                  "SongTitle": {"S": "Master of Puppets"},
+                  "AlbumTitle": {"S": "Master of Puppets"},
+                  "SongYear": {"S": "1986"}
+                }
+            }
         }
       ]
 }
